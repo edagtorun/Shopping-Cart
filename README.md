@@ -11,6 +11,8 @@ With JavaScript codes, the dynamic structure of the work is completely created.
 
 Fetch API was used in the project. The operations performed are saved in LocalStorage. 
 
+Visit; https://edagtorun.github.io/Shopping-Cart/
+
 <h2>Screen Web</h2>
 
 ![](ScreenWeb.gif)
